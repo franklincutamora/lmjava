@@ -1,7 +1,7 @@
 <div>
 	<h1>Employee CRUD (Java and MySQL)</h1>
 	<br>
-	This is a simple CRUD application using Java and Mysql database.
+	This is a simple Employee CRUD application using Java and Mysql database.
 	<br>
 	<h3>To Run this application on your computer, please do the following:</h3>
 	<ol>
@@ -19,7 +19,7 @@
 	<code>DriverManager.getConnection("jdbc:mysql://localhost/simple_crud","root","")</code>
 	<br>
 	<br>
-	<strong>Note:</strong> These are the libraries needed in case dependency problem occur:
+	<strong>Note:</strong> These are the libraries needed in case dependency problem occurs:
 	<ol>
 		<li>MySQL JDBC Driver - mysql-connector-java-5.1.23-bin.jar</li>
 		<li>swingx-all-1.6.4.jar</li>
