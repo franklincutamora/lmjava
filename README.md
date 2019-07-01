@@ -43,4 +43,10 @@
 	<strong>Administrator</strong> Username: admin, Password: password.
 	<br>
 	<strong>Standard User</strong> Username: user, Password: password.
+	<br>
+	<br>
+	<h2>Try Running the Program Immediately</h2>
+	Open "executable" folder and double click "empcrud.jar"
+	<br><br>
+	Thank You!
 </div>
