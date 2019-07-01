@@ -39,5 +39,8 @@
 	</ol>
 	<br>
 	<br>
-	
+	<h2>Sample Login Credentials</h2>
+	<strong>Administrator</strong> Username: admin, Password: password.
+	<br>
+	<strong>Standard User</strong> Username: user, Password: password.
 </div>
